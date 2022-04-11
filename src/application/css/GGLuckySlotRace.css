@@ -1,0 +1,17 @@
+.frame {
+    padding-top: 100px;
+}
+
+.arrow {
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    vertical-align: bottom;
+}
+.top-date {
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
